@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on [plaes](https://github.com/jelbro/plaes)
+- 🌱 I’m currently learning with [CS50](https://github.com/cs50)
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/jelbro/)
+- 💬 Ask me about ttrpgs 🧙‍♂️
+
 
 <!--
 **jelbro/jelbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
